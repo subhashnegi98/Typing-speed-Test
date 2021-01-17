@@ -48,13 +48,13 @@ h1{
     font-family: 'Langar', cursive;
 }
 
-@media (max-width:910px){
+@media(min-width:751px) and (max-width:910px){
     #maintext{
         width: 600px;
     }
 }
 
-@media (max-width:750px){
+@media (min-width:401px) and (max-width:750px){
     #maintext{
         width: 400px;
     }
