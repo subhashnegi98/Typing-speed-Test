@@ -64,3 +64,6 @@ btn.addEventListener('click', function(){
     }
 })
 
+const myfun = () => {
+    location.reload();
+}
